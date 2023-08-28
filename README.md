@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narpat-makwana
 - 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m currently learning BCA Computer Science
+- 🌱 Recently graduated in BCA(Science) from Savitribai Phule Pune University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
